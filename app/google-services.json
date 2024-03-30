@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "462880239620",
+    "firebase_url": "https://tutors-7245b-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "tutors-7245b",
+    "storage_bucket": "tutors-7245b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462880239620:android:5e84ba8342784853144551",
+        "android_client_info": {
+          "package_name": "com.example.tutorfinder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnWfgx_jD0j9QuK-o4M80gxL5KnLyhNtI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

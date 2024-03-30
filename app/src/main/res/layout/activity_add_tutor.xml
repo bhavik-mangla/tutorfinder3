@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <EditText
+            android:id="@+id/editTextName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Name"
+            android:minHeight="48dp" />
+
+        <EditText
+            android:id="@+id/editTextClass"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Class"
+            android:minHeight="48dp" />
+
+        <EditText
+            android:id="@+id/editTextLocality"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Locality"
+            android:minHeight="48dp" />
+
+        <EditText
+            android:id="@+id/editTextPastResults"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Past Results"
+            android:minHeight="48dp" />
+
+        <EditText
+            android:id="@+id/editTextImage1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Image1"
+            android:minHeight="48dp" />
+
+        <EditText
+            android:id="@+id/editTextImage2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Image2"
+            android:minHeight="48dp" />
+
+        <EditText
+            android:id="@+id/editTextImage3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Image3"
+            android:minHeight="48dp" />
+        <EditText
+            android:id="@+id/editTextTeachingExperience"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Teaching Experience"
+            android:minHeight="48dp" />
+
+        <EditText
+            android:id="@+id/editTextSubject"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Subject"
+            android:minHeight="48dp" />
+
+        <EditText
+            android:id="@+id/editTextAddress"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Address"
+            android:minHeight="48dp" />
+
+        <EditText
+            android:id="@+id/editTextPhoneNumber"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="PhoneNumber"
+            android:minHeight="48dp" />
+
+
+        <Button
+            android:id="@+id/buttonAddTutor"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text="Add Tutor"
+            android:minHeight="48dp" />
+
+    </LinearLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
